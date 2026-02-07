@@ -1,0 +1,114 @@
+(footprint "CHERRY_MX_LED"
+	(version 20250513)
+	(generator "pcbnew")
+	(generator_version "9.99")
+	(layer "F.Cu")
+	(property "Reference" "L1-1"
+		(at 0 3.81 0)
+		(layer "B.SilkS")
+		(hide yes)
+		(uuid "0015c003-887e-41c3-bb66-9b5660b70901")
+		(effects
+			(font
+				(size 1.27 1.524)
+				(thickness 0.2032)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Value" "LED"
+		(at 0 8.128 0)
+		(layer "B.SilkS")
+		(hide yes)
+		(uuid "453ed24b-f62b-4d42-bb13-23df4b836aa0")
+		(effects
+			(font
+				(size 1.27 1.524)
+				(thickness 0.2032)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a34208f5-8386-4731-adbb-d4282043ff05")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7c87cf0b-629e-441e-963b-59d0ce07ba47")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
+	(sheetname "/")
+	(sheetfile "gh80-3003.kicad_sch")
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.27 2.794)
+		(end -1.27 3.556)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "54bf3f53-a95a-4979-9bc1-928758bc2d22")
+	)
+	(fp_line
+		(start -0.889 3.175)
+		(end -1.651 3.175)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "6f2f795d-8729-4657-a00c-f775d01896b1")
+	)
+	(fp_line
+		(start 0.889 3.175)
+		(end 1.651 3.175)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "aa674b18-59e0-4803-8af9-2283b3c675e3")
+	)
+	(pad "1" thru_hole rect
+		(at 1.27 5.08)
+		(size 1.778 1.778)
+		(drill 0.9906)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(tenting
+			(front none)
+			(back none)
+		)
+		(uuid "9b35c18f-0fb6-4834-b379-2f92c4faf923")
+	)
+	(pad "2" thru_hole circle
+		(at -1.27 5.08)
+		(size 1.778 1.778)
+		(drill 0.9906)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(tenting
+			(front none)
+			(back none)
+		)
+		(uuid "008cc4cb-438e-4188-a707-17a21c31f44a")
+	)
+	(embedded_fonts no)
+)

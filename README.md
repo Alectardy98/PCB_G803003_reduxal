@@ -1,4 +1,4 @@
-# GH80-3003
+# GH80-3003 Reduxal
 
 ![G803003_REDUXAL_TOP](https://github.com/user-attachments/assets/dbede938-3c40-41ba-935c-4319af8b8f27)
 ![G803003_REDUXAL_TOP](https://github.com/user-attachments/assets/892e8a12-53eb-4366-b480-2cfc87ee2a8c)

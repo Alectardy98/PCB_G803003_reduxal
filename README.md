@@ -1,6 +1,6 @@
 # GH80-3003 Reduxal
 
-Open-sourced Cherry MX PCB using the Pi Pico (RP2040) for the Cherry G80 3001 line of keyboards. Stock keyboards shipped originally with Cherry MX switches.
+Open-sourced Cherry MX PCB using the Pi Pico (RP2040) for the Cherry G80 3001 line of keyboards. Stock keyboards shipped originally with Cherry MY switches.
 
 ![G803003_REDUXAL_TOP](https://github.com/user-attachments/assets/dbede938-3c40-41ba-935c-4319af8b8f27)
 ![G803003_REDUXAL_TOP](https://github.com/user-attachments/assets/892e8a12-53eb-4366-b480-2cfc87ee2a8c)
